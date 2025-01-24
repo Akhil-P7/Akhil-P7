@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey! I am Akhil Paney <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey! I am Akhil Pandey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">A passionate web developer and enthusiastic practitioner of C++ and Python development.</h2>
   
